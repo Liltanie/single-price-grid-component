@@ -1,3 +1,12 @@
+/* Table of Contents
+- - - - - - -
+Variables and media queries
+General styles
+Utilities
+Sitewide
+Grid price component
+- - - - - - -
+*/
 :root {
   --cyan: hsl(179, 62%, 43%);
   --light-cyan: hsl(179, 47%, 52%);

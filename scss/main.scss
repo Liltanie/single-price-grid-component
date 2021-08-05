@@ -81,6 +81,10 @@ ol {
 	padding: 0;
 }
 
+p {
+	margin-top: 0.5rem;
+}
+
 // || Utilities
 .spacing > * + * {
 	margin-top: var(--spacer, 1rem);
@@ -160,6 +164,7 @@ ol {
 	p {
 		margin-top: 0.5rem;
 	}
+
 	@include for-tablet-landscape-up() {
 		grid-column: 1 / 3;
 	}
